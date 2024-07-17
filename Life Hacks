@@ -5,23 +5,55 @@
 </style> 
 
 <html>
-<head>  
+<head>
+<!--title-->
+<title>  </title>
 </head>
 
 <body>
-<header>
-<!--headers and main navigation menu  -->
+
+<!--headers-->
+<header id="home">
+<h1 >Life Hacks</h1>
+<h4 >Do What You Want But Easier</h4>
 </header>
 
 
     
-<!-- headers and main navigation menu -->
+<!-- main navigation menu -->
 <nav>
+ <a href="#home">Home</a>
+ <a href="#Cleaning">Cleaning</a>
+ <a href="#Learning">Learning</a>
+ <a href="#Cooking">Cooking</a>
 </nav>
 
+<!-- Reasons to Hack -->
+
+<!-- Cleaning Hacks -->
+<!-- Learning Hacks -->
+<!-- Cooking Hacks -->
 
 
 <footer>
+<div>
+        <h3>Get In Touch With Your Hacks</h3>
+<span>Phone: </span>
+<span>132 132 132 132 </span>
+ </div>
+<div>
+        <span >Email: </span>
+        <span>email@lifehacks.com</span>
+    </div>
+<span>Find us on:</span>
+    <a href="https://www.facebook.com" target="_blank" rel="noopener">Facebook</a>
+    <a href="https://www.instagram.com" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://www.twitter.com" target="_blank" rel="noopener">Twitter</a>
+
+ <p>
+ Copyright © Life is to be Hacked 2024
+ </p>
+
 </footer>
 
 </body>
