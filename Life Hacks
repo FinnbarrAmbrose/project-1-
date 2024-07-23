@@ -2,6 +2,64 @@
 <html lang="en-US">
 
 <style>
+         body { 
+background-color:
+color:
+font-family:
+margin: 0; 
+padding: 0;
+line-height:
+        }
+        
+        div { 
+padding:
+margin:
+border:
+background-color:
+        }
+        
+        nav { 
+background-color:
+color: 
+padding:
+font-size:
+display:
+justify-content:
+        }
+       
+        h2 { 
+color:
+font-size:
+margin-top:
+margin-bottom:
+font-weight:
+text-align:
+        }
+     
+        li p {
+margin:
+padding:
+font-size:
+color:
+        }
+
+        footer{
+background-color:
+color:
+text-align:
+padding:
+bottom:
+height:
+width:
+        }
+    
+         hr {
+border:
+height:
+background-color:
+margin:
+         }
+            
 </style> 
 
 <html>
