@@ -1,188 +1,347 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
+
+<style>
+
+body {background-color: #f0f0f0;  
+color: #333; 
+font-family: Arial, sans-serif;
+margin: 0; 
+padding: 0; 
+line-height: 1.6;}
+        
+div {padding: 10px; 
+margin: 10px;
+border: solid #ccc;
+background-color: #fff;}
+        
+nav {background-color: #C0C0C0;
+color: #fff;
+padding: 15px;
+font-size: 18px;
+display: flex;
+justify-content: space-around;}
+       
+h2 {color: #444;              
+font-size: 25px; 
+margin-top: 20px;          
+margin-bottom: 10px;      
+font-weight: bold;       
+text-align: center;}
+
+li p {margin: 0;                
+padding: 5px 0;           
+font-size: 15px;          
+color: #666;}
+
+footer {background-color: #C0C0C0;    
+color:black;              
+text-align: center;       
+padding: 20px;            
+bottom: 0;               
+width: 100%;}
+    
+hr {border: 0;                
+height: 0px;              
+background-color: #ccc;    
+margin: 20px 0;}
+            
+</style>
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Life Hacks</title>
+    <title> Life hacks </title>
 </head>
 
 <body>
-<!-- Header Section -->
-    <header id="home">
-        <h1>Life Hacks</h1>
-        <h4>Make Your Life Easier</h4>
-    </header>
+<!--headers & navigation menu  -->
+<header id="home">
+<h1 style="font-size: 100px; color: green;">Life Hacks</h1>
+<h4 style="font-size: 38px; color: green;">Do What You Want But Easier</h4>
+</header>
+ 
+
+<hr>
+
+ <nav>
+<a href="#home">Home</a>
+ <a href="#Cleaning">Cleaning</a>
+ <a href="#Learning">Learning</a>
+ <a href="#Cooking">Cooking</a>
+</nav>
 
 
-<!-- Navigation -->
-    <nav>
-        <a href="#home">Home</a>
-        <a href="#cleaning-hacks">Cleaning</a>
-        <a href="#learning-hacks">Learning</a>
-        <a href="#cooking-hacks">Cooking</a>
-    </nav>
+
+ <hr>
 
 
- <!-- Main Content Container -->
-    <div class="container">
-        <h2>Why Hack?</h2>
+<!-- Reasons to Hack -->
+<div> 
+<h2>Reasons to Hack</h2>
 
-
- <!-- Cleaning Section -->
-        <section id="cleaning-hacks">
- <h2>Cleaning</h2>
-<ul> <li>
- <h3>Health Benefits:</h3>
-
-<ul> <li>
-<p>Reduces Allergens and Germs: Regular cleaning removes dust, pet dander, mold, and bacteria that can cause allergies and illnesses.</p>
- </li>
-                      
-<li>
- <p>Improves Mental Health: A clean and organized space can reduce stress and anxiety, promoting a sense of calm and well-being.</p>
-</li>
+<section id="Cleaning">
+<h2>Cleaning</h2>
+<ul>
 
 <li>
- <p>Prevents Pest Infestations: Keeping spaces clean reduces the risk of rodents and insects, which can carry diseases and cause damage.</p>
+<h3>Health Benefit:</h3>
+<ul>
+<li>
+<p>Reduces Allergens and Germs: Regular cleaning removes dust, pet dander, mould, and bacteria that can cause allergies and illnesses.</p>
 </li>
- </ul></li>
-
+<li>
+<p>Improves Mental Health: A clean and organized space can reduce stress and anxiety, promoting a sense of calm and well-being.</p>
+</li>
+<li>
+<p>Prevents Pest Infestations: Keeping spaces clean reduces the risk of pests like rodents and insects, which can carry diseases and cause damage.</p>
+</li>
+</ul>
+</li>
 
 <li>
 <h3>Enhanced Productivity:</h3>
-<ul> <li>
-<p>Declutters Your Mind: A tidy environment can help you think more clearly and stay focused, leading to increased productivity.</p>
- </li>
-
+<ul>
 <li>
- <p>Saves Time: Knowing where everything is can save time and reduce frustration when you need to find something quickly.</p>
-</li> </ul> </li>
+<p>Declutters Your Mind: A tidy environment can help you think more clearly and stay focused, leading to increased productivity.</p>
+</li>
+<li>
+<p>Saves Time: Knowing where everything is can save time and reduce frustration when you need to find something quickly.</p>
+</li>
+</ul>
+</li>
+<li>
 
-<li> 
 <h3>Positive Impressions:</h3>
-
-<ul> <li>
+<ul>
+<li>
 <p>Creates a Welcoming Environment: A clean home or office is more inviting and comfortable for guests, clients, and family members.</p>
 </li>
-
-
- <li>
-<p>Reflects Personal Pride: Maintaining a clean space shows that you take pride in your surroundings and care about your environment.</p>
- </li>
-
 <li>
- <p>Boosts Social Interactions: People are likelier to visit and spend time in a clean, well-maintained space, enhancing social connections.</p>
-</li> </ul> </li> </ul>
-       
+<p>Reflects Personal Pride: Maintaining a clean space shows that you take pride in your surroundings and care about your environment.</p>
+</li>
+<li>
+<p>Boosts Social Interactions: People are more likely to visit and spend time in a clean, well-maintained space, enhancing social connections.</p>
+</li>
+</ul>
+</li>
+</ul>
 </section>
 
+<hr>
 
- <!-- Learning Section -->
-        <hr>
-        <section id="learning-hacks">
-            <h2>Learning</h2>
- <ul>
+<section id="Learning">
+<h2>Learning</h2>
+<ul>
+<li>
 
- <li>
- <h3>Personal Development:</h3>
-<ul><li>
- <p>Enhances Knowledge and Skills: Learning new things continuously helps you acquire new knowledge and develop new skills, which can be applied in various aspects of life.</p>
- </li>
+<h3>Personal Development:</h3>
+<ul>
+<li>
+<p>Enhances Knowledge and Skills: Learning new things continuously helps you acquire new knowledge and develop new skills, which can be applied in various aspects of life.</p>
+</li>
+<li>
+<p>Boosts Confidence: Gaining new knowledge and mastering new skills can significantly increase your self-esteem and confidence.</p>
+</li>
+<li>
+<p>Fosters Creativity: Exposure to new ideas and information can stimulate creativity and innovation, helping you think outside the box.</p>
+</li>
+</ul>
+</li>
 
 <li>
- <p>Boosts Confidence: Gaining new knowledge and mastering new skills can significantly increase your self-esteem and confidence.</p>
- </li>
-
-<li>
- <p>Fosters Creativity: Exposure to new ideas and information can stimulate creativity and innovation, helping you think outside the box.</p>
- </li> </ul>
- </li> <li>
-                   
 <h3>Cognitive Benefits:</h3>
- <ul> <li>
+<ul>
+<li>
 <p>Improves Memory and Brain Function: Learning activities can enhance cognitive function, improve memory, and protect against cognitive decline.</p>
- </li>
-                      
+</li>
 <li>
 <p>Encourages Critical Thinking: Learning promotes critical thinking and problem-solving skills, enabling you to analyze situations more effectively.</p>
 </li>
-
 <li>
 <p>Lifelong Mental Health: Keeping the brain active through learning can reduce the risk of mental health issues and support overall mental well-being.</p>
- </li>  </ul>
- </li> </ul>
-  </section>
+</li>
+</ul>
+</li>
+</ul>
+</section>
 
+    <hr>
 
-<!-- Cooking Section -->
-        <hr>
-        <section id="cooking-hacks">
-          
-<h2>Cooking Hacks</h2>
- <ul> <li>
+<section id="Cooking">
+<h2>Cooking</h2>
+<ul>
+<li>
+
 <h3>Health and Nutrition:</h3>
- <ul>  <li>
+<ul>
+<li>
 <p>Control Over Ingredients: Cooking at home allows you to choose fresh, high-quality ingredients, control portion sizes, and reduce the use of unhealthy additives.</p>
 </li>
-                       
 <li>
 <p>Encourages Balanced Diet: Preparing meals can help you create balanced and nutritious dishes tailored to your dietary needs.</p>
 </li>
-                       
 <li>
 <p>Supports Special Diets: Home cooking is essential for managing dietary restrictions, allergies, and specific health conditions.</p>
-</li> </ul> </li>
-
-
-<li>
- <h3>Financial Savings:</h3>
-
- <ul> <li>
- <p>Cost-Effective: Cooking at home is generally less expensive than dining out or buying pre-packaged meals, allowing you to save money.</p>
+</li>
+</ul>
 </li>
 
 <li>
- <p>Reduces Food Waste: Planning and preparing meals can help minimize food waste by using ingredients more efficiently.</p>
+<h3>Financial Savings:</h3>
+<ul>
+<li>
+<p>Cost-Effective: Cooking at home is generally less expensive than dining out or buying pre-packaged meals, allowing you to save money.</p>
+</li>               
+<li>
+<p>Reduces Food Waste: Planning and preparing meals can help minimize food waste by using ingredients more efficiently.</p>
 </li>
-                        
 <li>
 <p>Budget-Friendly Meal Planning: Home cooking lets you plan meals according to your budget, making it easier to manage household expenses.</p>
-</li> </ul></li>
-             
+</li>
+</ul>
+</li>
+
 <li>
- <h3>Social and Emotional Benefits:</h3>
-
- <ul> <li>
+<h3>Social and Emotional Benefits:</h3>
+<ul>
+<li>
 <p>Family Bonding: Cooking and sharing meals with family members can strengthen relationships and create lasting memories.</p>
-                        </li>
-
+</li>
 <li>
 <p>Cultural Connection: Exploring and preparing dishes from different cultures can deepen your understanding and appreciation of various culinary traditions.</p>
 </li>
-                        
 <li>
- <p>Sense of Accomplishment: Successfully preparing a meal can provide a sense of accomplishment and satisfaction, boosting your overall mood and well-being.</p>
- </li> </ul>
- </li> </ul>
- </section>
-    </div>
+<p>Sense of Accomplishment: Successfully preparing a meal can provide a sense of accomplishment and satisfaction, boosting your overall mood and well-being.</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
 
 
-<!-- Footer Section -->
- <footer>
- <div class="footer-text">
-  <h3>Subscribe to Our Newsletter</h3>
- <form action="#">
- <input type="email" name="email" placeholder="Enter your email">
- <input type="submit" value="Subscribe">
-</form>
+ <hr>
+
+
+
+<!-- Cleaning Hacks -->
+    <div id="Cleaning">
+        
+
+<div> <section>
+<h2 style="font-size: 50px; color: green;">Cleaning Hacks</h2>
+<ul>
+
+<h2>Washing the Basket Inside Your Room</h2>
+<p>Keeping the basket clean in your room is essential for maintaining a hygienic and organized space. Start by emptying the basket completely and taking it outside to shake off any loose dust or debris. For plastic or metal baskets, use warm, soapy water and a sponge to scrub the inside and outside thoroughly, ensuring all grime is removed. If your basket is made of fabric or wicker, vacuum the interior to lift dust, then wipe it down gently with a damp cloth and mild soap. Allow it to air dry fully to prevent mildew. Finish by spraying the basket with a disinfectant, letting it sit for a few minutes, and then wiping it down. Regular cleaning of the basket not only prolongs its lifespan but also helps keep your room fresh and clean.</p>
+
+<img src="https://images.pexels.com/photos/4546168/pexels-photo-4546168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Washing Inside Basket" width="500">
+
+              
+<h2>Decluttering</h2>
+<p> Decluttering is a crucial step in creating a serene and organized living space. Begin by sorting your items into four categories: keep, donate, discard, and relocate. Tackling one small area at a time, such as a single drawer or shelf, can help prevent feelings of being overwhelmed. Use storage solutions like bins and organizers to neatly group similar items, making them easier to find and store. Immediately bag or box items for donation or disposal to avoid second-guessing your decisions. Regularly scheduled decluttering sessions will help maintain this organization, ensuring your room stays tidy and stress-free. </p>
+
+<img src="https://media.istockphoto.com/id/1366274155/photo/declutter-clothes-wardrobe.jpg?b=1&s=612x612&w=0&k=20&c=o_2JD9YrcA_uzwC5iSPPoNN5MjF8hzZmCx1gPHYjcK0=" alt=Declutter keep donate discard; width="500">
+
+<h2>Tidy Up Before Bed</h2>
+<p>Tidying up before bed sets a positive tone for the next day and ensures a restful sleep environment. Start by making your bed, straightening sheets, and arranging pillows, which instantly makes the room look neater. Clear any clutter from surfaces like desks, nightstands, and dressers, putting items back in their designated spots. Deal with clothes by hanging up or folding clean ones and placing dirty laundry in the basket. Give the floor a quick sweep or vacuum to remove any dirt or debris that has accumulated during the day. Prepare for tomorrow by laying out your clothes and packing your bag, reducing morning stress. Finally, create a calming ambiance by dimming lights, lighting a candle, or using a diffuser,transforming your room into a tranquil retreat.</p>
+                
+               
+<video src=" https://videos.pexels.com/video-files/4112660/4112660-hd_1080_1920_25fps.mp4" alt="bed gets dressed" width="500" autoplay muted loop>
+
+
+    
+</ul>
+</section> </div>
+
+<!-- Cleaning Hacks -->
+
+
+ <hr>
+
+
+
+<!-- Learning Hacks -->
+
+<div id="Learning "> <section>
+<h2 style="font-size: 50px; color: green;">Learning Hacks</h2>
+<ul>
+                
+<h2>Stick to a Schedule</h2>
+<p>Sticking to a schedule is essential for effective learning and productivity. Create a detailed timetable that includes specific blocks of time dedicated to different subjects or tasks. Consistency helps your brain adapt to a routine, making it easier to concentrate and retain information. Use digital tools or a physical planner to track your schedule, setting reminders for start and end times of study sessions. Allocate time for reviews and revisions to reinforce what you've learned. By adhering to a structured schedule, you can ensure a balanced approach to your studies, avoid last-minute cramming, and achieve a sense of accomplishment and progress.</p>
+
+<img src="https://images.pexels.com/photos/4144101/pexels-photo-4144101.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Schedule on the wall" width="500">
+
+<h2>Practice with Your Own Projects</h2>
+<p>Practicing with your own projects is one of the most effective ways to deepen your understanding and apply what you've learned. Choose projects that interest you and are relevant to the skills you're trying to develop. For example, if you're learning to code, build a personal website or a small application. If you're studying a new language, write short stories or engage in conversations with native speakers. Working on personal projects allows you to experiment, make mistakes,and learn in a practical, hands-on way. It also provides a sense of ownership and accomplishment, making the learning process more enjoyable and meaningful.</p>
+
+
+
+<img src="https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="working at desk" width="600">
+
+<h2>Take Regular Breaks</h2>
+ <p> Taking regular breaks is crucial for maintaining focus and preventing burnout. The human brain can only sustain attention for a limited period, usually around 25-30 minutes. Implement techniques like the Pomodoro Technique, which involves working for a set period (e.g., 25 minutes) followed by a short break (e.g., 5 minutes). During breaks, engage in activities that help you relax and recharge, such as stretching, walking, or deep breathing exercises. Avoid screen time during these breaks to give your eyes a rest. Regular intervals of focused work and rest can enhance your overall productivity and keep you motivated throughout your study sessions.</p>
+
+ <video src=" https://videos.pexels.com/video-files/4435249/4435249-sd_640_360_25fps.mp4" alt="talk and walk " width="600" autoplay muted loop>
+
+</ul>
+</section> </div>
+<!-- Learning Hacks -->
+
+
+
+ <hr>
+
+
+
+<!-- Cooking Hacks -->
+<div id="Cooking"> <section>
+            <h2 style="font-size: 50px; color: green;">Cooking Hacks</h2>
+            <ul>
+                
+<h2>Prep Meals for the Week</h2>
+<p>Meal prepping for the week is a powerful strategy to save time and ensure healthy eating habits. Start by planning your meals, making a grocery list of all necessary ingredients. Dedicate a few hours on a weekend or a less busy day to cook and portion out meals into containers. Focus on versatile ingredients that can be used in multiple dishes to keep your meals interesting. Store these containers in the refrigerator or freezer, labeled with the date and contents. By prepping meals in advance, you eliminate the daily stress of deciding what to eat, reduce the temptation to order takeout, and maintain a balanced diet effortlessly.</p>
+
+<img src="https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&w=600" alt="4 Prep Meals" width="700">
+
+
+                
+<h2>Make Enough for Lunch the Next Day</h2>
+<p>Cooking extra portions for dinner and using the leftovers for lunch the next day is a simple yet effective hack. When preparing dinner, double the recipe so you have enough for an additional meal. Store the extra portion in a container and refrigerate it for the next day's lunch. This approach not only saves time but also ensures you have a nutritious meal ready, avoiding the need to eat out or grab unhealthy snacks. Over time, this practice can also help you save money and reduce food waste, as you are utilizing all ingredients efficiently.</p>
+
+<img src="https://images.pexels.com/photos/9923621/pexels-photo-9923621.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="left over lunch" width="600">
+
+
+<h2> Cutting Vegetable Hacks </h2>
+<p> Mastering a few vegetable cutting hacks can significantly speed up your cooking process. Start by using a sharp knife and a sturdy cutting board to ensure safety and precision. For quick and uniform chopping, learn basic knife skills such as the claw grip, where you tuck your fingertips under and use your knuckles to guide the knife. Utilize tools like a mandoline slicer for even slices or a food processor for large quantities. Techniques like cutting bell peppers from top to bottom to avoid seeds and slicing round vegetables in half for stability can make the process more efficient. These hacks not only save time but also improve the presentation and cooking consistency of your meals.</p>
+
+<video src=" https://videos.pexels.com/video-files/6811283/6811283-sd_960_506_25fps.mp4 " alt="chop chop" width="600" autoplay muted loop>
+</ul>
+</section> </div>
+<!-- Cooking Hacks -->
+
+
+
+ <hr>
+
+
+
+       
+<!-- footer --> 
+
+<footer>
+<div class="footer-text">
+        <h3>Subscribe to Our Newsletter</h3>
+        <form action="#">
+<input type="email" name="email" placeholder="Enter your email">
+<input type="submit" value="Subscribe">
+/form>
+       
 <span>Contact us at: <a href="mailto:info@lifehacks.com">info@lifehacks.com</a></span>
-           
+        
 <span>Follow us on <a href="https://www.twitter.com">Twitter</a> | <a href="https://www.facebook.com">Facebook</a> | <a href="https://www.instagram.com">Instagram</a></span>
-  </div>
- </footer>
+   
+</div>
+</footer>
 </body>
-
 
 </html>
