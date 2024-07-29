@@ -22,8 +22,8 @@ font-size: 18px;
 display: flex;
 justify-content: space-around;}
        
-h2 {color: #444;              
-font-size: 25px; 
+h2 {color: green;              
+font-size: 30px; 
 margin-top: 20px;          
 margin-bottom: 10px;      
 font-weight: bold;       
@@ -49,7 +49,7 @@ margin: 20px 0;}
 </style>
 
 <head>
-    <title> Life hacks </title>
+<title> Life hacks </title>
 </head>
 
 <body>
@@ -61,6 +61,7 @@ margin: 20px 0;}
  
 
 <hr>
+
 
  <nav>
 <a href="#home">Home</a>
@@ -74,12 +75,13 @@ margin: 20px 0;}
  <hr>
 
 
+
 <!-- Reasons to Hack -->
 <div> 
-<h2>Reasons to Hack</h2>
+<h2 style="font-size: 50px; color: green;">Reasons to Hack</h2>
 
 <section id="Cleaning">
-<h2>Cleaning</h2>
+<h2 > Cleaning</h2>
 <ul>
 
 <li>
@@ -129,7 +131,7 @@ margin: 20px 0;}
 <hr>
 
 <section id="Learning">
-<h2>Learning</h2>
+<h2 style="font-size: 30px; color: green;">Learning</h2>
 <ul>
 <li>
 
@@ -167,7 +169,7 @@ margin: 20px 0;}
     <hr>
 
 <section id="Cooking">
-<h2>Cooking</h2>
+<h2 style="font-size: 30px; color: green;">Cooking</h2>
 <ul>
 <li>
 
@@ -234,19 +236,19 @@ margin: 20px 0;}
 <h2>Washing the Basket Inside Your Room</h2>
 <p>Keeping the basket clean in your room is essential for maintaining a hygienic and organized space. Start by emptying the basket completely and taking it outside to shake off any loose dust or debris. For plastic or metal baskets, use warm, soapy water and a sponge to scrub the inside and outside thoroughly, ensuring all grime is removed. If your basket is made of fabric or wicker, vacuum the interior to lift dust, then wipe it down gently with a damp cloth and mild soap. Allow it to air dry fully to prevent mildew. Finish by spraying the basket with a disinfectant, letting it sit for a few minutes, and then wiping it down. Regular cleaning of the basket not only prolongs its lifespan but also helps keep your room fresh and clean.</p>
 
-<img src="https://images.pexels.com/photos/4546168/pexels-photo-4546168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Washing Inside Basket" width="500">
+<img src="https://images.pexels.com/photos/4546168/pexels-photo-4546168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Washing Inside Basket" width="400">
 
               
 <h2>Decluttering</h2>
 <p> Decluttering is a crucial step in creating a serene and organized living space. Begin by sorting your items into four categories: keep, donate, discard, and relocate. Tackling one small area at a time, such as a single drawer or shelf, can help prevent feelings of being overwhelmed. Use storage solutions like bins and organizers to neatly group similar items, making them easier to find and store. Immediately bag or box items for donation or disposal to avoid second-guessing your decisions. Regularly scheduled decluttering sessions will help maintain this organization, ensuring your room stays tidy and stress-free. </p>
 
-<img src="https://media.istockphoto.com/id/1366274155/photo/declutter-clothes-wardrobe.jpg?b=1&s=612x612&w=0&k=20&c=o_2JD9YrcA_uzwC5iSPPoNN5MjF8hzZmCx1gPHYjcK0=" alt=Declutter keep donate discard; width="500">
+<img src="https://media.istockphoto.com/id/1366274155/photo/declutter-clothes-wardrobe.jpg?b=1&s=612x612&w=0&k=20&c=o_2JD9YrcA_uzwC5iSPPoNN5MjF8hzZmCx1gPHYjcK0=" alt=Declutter keep donate discard; width="400">
 
 <h2>Tidy Up Before Bed</h2>
 <p>Tidying up before bed sets a positive tone for the next day and ensures a restful sleep environment. Start by making your bed, straightening sheets, and arranging pillows, which instantly makes the room look neater. Clear any clutter from surfaces like desks, nightstands, and dressers, putting items back in their designated spots. Deal with clothes by hanging up or folding clean ones and placing dirty laundry in the basket. Give the floor a quick sweep or vacuum to remove any dirt or debris that has accumulated during the day. Prepare for tomorrow by laying out your clothes and packing your bag, reducing morning stress. Finally, create a calming ambiance by dimming lights, lighting a candle, or using a diffuser,transforming your room into a tranquil retreat.</p>
                 
                
-<video src=" https://videos.pexels.com/video-files/4112660/4112660-hd_1080_1920_25fps.mp4" alt="bed gets dressed" width="500" autoplay muted loop>
+<video src=" https://videos.pexels.com/video-files/4112660/4112660-hd_1080_1920_25fps.mp4" alt="bed gets dressed" width="400" autoplay muted loop>
 
 
     
@@ -269,19 +271,19 @@ margin: 20px 0;}
 <h2>Stick to a Schedule</h2>
 <p>Sticking to a schedule is essential for effective learning and productivity. Create a detailed timetable that includes specific blocks of time dedicated to different subjects or tasks. Consistency helps your brain adapt to a routine, making it easier to concentrate and retain information. Use digital tools or a physical planner to track your schedule, setting reminders for start and end times of study sessions. Allocate time for reviews and revisions to reinforce what you've learned. By adhering to a structured schedule, you can ensure a balanced approach to your studies, avoid last-minute cramming, and achieve a sense of accomplishment and progress.</p>
 
-<img src="https://images.pexels.com/photos/4144101/pexels-photo-4144101.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Schedule on the wall" width="500">
+<img src="https://images.pexels.com/photos/4144101/pexels-photo-4144101.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Schedule on the wall" width="400">
 
 <h2>Practice with Your Own Projects</h2>
 <p>Practicing with your own projects is one of the most effective ways to deepen your understanding and apply what you've learned. Choose projects that interest you and are relevant to the skills you're trying to develop. For example, if you're learning to code, build a personal website or a small application. If you're studying a new language, write short stories or engage in conversations with native speakers. Working on personal projects allows you to experiment, make mistakes,and learn in a practical, hands-on way. It also provides a sense of ownership and accomplishment, making the learning process more enjoyable and meaningful.</p>
 
 
 
-<img src="https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="working at desk" width="600">
+<img src="https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="working at desk" width="400">
 
 <h2>Take Regular Breaks</h2>
  <p> Taking regular breaks is crucial for maintaining focus and preventing burnout. The human brain can only sustain attention for a limited period, usually around 25-30 minutes. Implement techniques like the Pomodoro Technique, which involves working for a set period (e.g., 25 minutes) followed by a short break (e.g., 5 minutes). During breaks, engage in activities that help you relax and recharge, such as stretching, walking, or deep breathing exercises. Avoid screen time during these breaks to give your eyes a rest. Regular intervals of focused work and rest can enhance your overall productivity and keep you motivated throughout your study sessions.</p>
 
- <video src=" https://videos.pexels.com/video-files/4435249/4435249-sd_640_360_25fps.mp4" alt="talk and walk " width="600" autoplay muted loop>
+ <video src=" https://videos.pexels.com/video-files/4435249/4435249-sd_640_360_25fps.mp4" alt="talk and walk " width="400" autoplay muted loop>
 
 </ul>
 </section> </div>
@@ -301,20 +303,20 @@ margin: 20px 0;}
 <h2>Prep Meals for the Week</h2>
 <p>Meal prepping for the week is a powerful strategy to save time and ensure healthy eating habits. Start by planning your meals, making a grocery list of all necessary ingredients. Dedicate a few hours on a weekend or a less busy day to cook and portion out meals into containers. Focus on versatile ingredients that can be used in multiple dishes to keep your meals interesting. Store these containers in the refrigerator or freezer, labeled with the date and contents. By prepping meals in advance, you eliminate the daily stress of deciding what to eat, reduce the temptation to order takeout, and maintain a balanced diet effortlessly.</p>
 
-<img src="https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&w=600" alt="4 Prep Meals" width="700">
+<img src="https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&w=600" alt="4 Prep Meals" width="400" height="300"
 
 
                 
 <h2>Make Enough for Lunch the Next Day</h2>
 <p>Cooking extra portions for dinner and using the leftovers for lunch the next day is a simple yet effective hack. When preparing dinner, double the recipe so you have enough for an additional meal. Store the extra portion in a container and refrigerate it for the next day's lunch. This approach not only saves time but also ensures you have a nutritious meal ready, avoiding the need to eat out or grab unhealthy snacks. Over time, this practice can also help you save money and reduce food waste, as you are utilizing all ingredients efficiently.</p>
 
-<img src="https://images.pexels.com/photos/9923621/pexels-photo-9923621.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="left over lunch" width="600">
+<img src="https://images.pexels.com/photos/9923621/pexels-photo-9923621.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="left over lunch" width="400" height="550">
 
 
 <h2> Cutting Vegetable Hacks </h2>
 <p> Mastering a few vegetable cutting hacks can significantly speed up your cooking process. Start by using a sharp knife and a sturdy cutting board to ensure safety and precision. For quick and uniform chopping, learn basic knife skills such as the claw grip, where you tuck your fingertips under and use your knuckles to guide the knife. Utilize tools like a mandoline slicer for even slices or a food processor for large quantities. Techniques like cutting bell peppers from top to bottom to avoid seeds and slicing round vegetables in half for stability can make the process more efficient. These hacks not only save time but also improve the presentation and cooking consistency of your meals.</p>
 
-<video src=" https://videos.pexels.com/video-files/6811283/6811283-sd_960_506_25fps.mp4 " alt="chop chop" width="600" autoplay muted loop>
+<video src="https://videos.pexels.com/video-files/3209700/3209700-sd_640_360_25fps.mp4" controls muted width="400" height="300" alt="chop chop" width="600" autoplay muted loop>
 </ul>
 </section> </div>
 <!-- Cooking Hacks -->
@@ -336,7 +338,7 @@ margin: 20px 0;}
 <input type="submit" value="Subscribe">
 /form>
        
-<span>Contact us at: <a href="mailto:info@lifehacks.com">info@lifehacks.com</a></span>
+<span>Contact us at: <a href="mailto:Info@lifeHacks.com">Info@LifeHacks.com</a></span>
         
 <span>Follow us on <a href="https://www.twitter.com">Twitter</a> | <a href="https://www.facebook.com">Facebook</a> | <a href="https://www.instagram.com">Instagram</a></span>
    
