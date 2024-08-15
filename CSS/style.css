@@ -42,5 +42,16 @@ hr {border: 0;
 height: 0px;              
 background-color: #ccc;    
 margin: 20px 0;}
-            
+
+article 
+{width: 70%;}
+
+img 
+{max-width: 100%;
+height: auto;}
 </style>
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
