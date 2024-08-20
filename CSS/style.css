@@ -60,12 +60,27 @@ video
     max-width: 100%;
 height: auto;}
 
-.front-page:hover + .ponts-two{display:block }
-    
-.ponts-two {display:none }
+
 
 
 section {
-    display: flex;
-    justify-content: space-between;
+    display:contents
+    justify-content:contents
 }
+details summary {
+    cursor: pointer;
+    list-style: none;
+    position: relative;
+    padding-left: 20px;
+  }
+  
+  details summary::before {
+    content: "▶"; /* Right-pointing arrow */
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  details[open] summary::before {
+    content: "▼"; /* Down-pointing arrow */
+  }
