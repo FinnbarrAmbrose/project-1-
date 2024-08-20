@@ -44,11 +44,20 @@ background-color: #ccc;
 margin: 20px 0;}
 
 article 
-{width: 90%;
-   }
+{width: 95%
+    margin: 0 auto; 
+    padding: 20px; }
 
 img 
-{max-width: 100%;
+{ display: block;
+    margin: 0 auto;
+    max-width: 100%;
+height: auto;}
+
+video
+{ display: block;
+    margin: 0 auto;
+    max-width: 100%;
 height: auto;}
 
 .front-page:hover + .ponts-two{display:block }
