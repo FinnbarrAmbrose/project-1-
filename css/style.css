@@ -91,7 +91,7 @@ hr {
 }
 
 article {
-  width: 95% margin: 0 auto;
+  width: 95% margin: 1 auto;
   padding: 20px;
 }
 
@@ -113,9 +113,9 @@ video {
 
 
 section {
-  display: contents justify-content:contents
+  display: flex;
+  justify-content: center; 
 }
-
 details summary {
   cursor: pointer;
   list-style: none;
