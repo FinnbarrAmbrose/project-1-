@@ -1,4 +1,5 @@
 <h1>Project One Life Hacks</h1>
+<img src="![Picture4](https://github.com/user-attachments/assets/3d081e6a-aa18-4bbe-850c-d3f9b53307aa)" alt="Screenshot of the website on various screen sizes">
 
 <hr>
 
