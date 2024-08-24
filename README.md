@@ -1,5 +1,7 @@
 <h1>Project One Life Hacks</h1>
-<img src="![Picture4](https://github.com/user-attachments/assets/3d081e6a-aa18-4bbe-850c-d3f9b53307aa)" alt="Screenshot of the website on various screen sizes">
+
+![Picture3](https://github.com/user-attachments/assets/db3f6cbc-dbd3-4865-bd1a-f34e29c0c600)
+
 
 <hr>
 
@@ -22,7 +24,13 @@
 <hr>
 
 <h2>Screenshots</h2>
-<p>Screenshots demonstrate how the website looks on common screen sizes. They were created using <a href="https://ami.responsivedesign.is">ami.responsivedesign.is</a>.</p>
+<p>Screenshots demonstrate how the website looks on common screen sizes. They were created using 
+![video 1 img](https://github.com/user-attachments/assets/a0f4f633-d687-44f1-8489-921d824b9baa)
+![tittle 1](https://github.com/user-attachments/assets/3dd1ef80-9384-42fd-8a6c-ea31680f8791)
+![nav](https://github.com/user-attachments/assets/8711a263-5fcf-4098-82f6-8b6c58905cd7)
+![footer](https://github.com/user-attachments/assets/2251cfea-237f-4e98-8a90-36436a2dc5ce)
+![front page](https://github.com/user-attachments/assets/be65a653-c672-470e-9a4c-8fe1c67c57e6).
+</p>
 
 <hr>
 
@@ -32,23 +40,26 @@
 <h3>Feature 1: Navigation Bar</h3>
 <p><strong>Description:</strong> The navigation bar directs users from the homepage to sections on cooking, learning, and cleaning. It organizes information into specific categories, making it easy to navigate. The icons were made larger and bolder for easy use on mobile devices, without compromising screen space.</p>
 <p><strong>Screenshot:</strong></p>
+![nav](https://github.com/user-attachments/assets/8711a263-5fcf-4098-82f6-8b6c58905cd7)
 
 <h3>Feature 2: Submission Button</h3>
 <p><strong>Description:</strong> This button allows users to submit their email for newsletters on various life hacks, helping them maintain a better quality of life. The submission link stores the email securely.</p>
 <p><strong>Screenshot:</strong></p>
-
+![footer](https://github.com/user-attachments/assets/2251cfea-237f-4e98-8a90-36436a2dc5ce)
 <h3>Feature 3: Social Media Links</h3>
 <p><strong>Description:</strong> These links enable users to follow the website on social media. Clicking a link opens a new window, keeping the original site open for easy navigation.</p>
 <p><strong>Screenshot:</strong></p>
+![footer](https://github.com/user-attachments/assets/2251cfea-237f-4e98-8a90-36436a2dc5ce)
 
 <h3>Feature 4: Video</h3>
 <p><strong>Description:</strong> A video feature demonstrates life hacks, such as cutting vegetables. The video can be played and paused, giving users flexibility in viewing the content.</p>
 <p><strong>Screenshot:</strong></p>
+![video 1 img](https://github.com/user-attachments/assets/a0f4f633-d687-44f1-8489-921d824b9baa)
 
 <h3>Feature 5: Bullet Points</h3>
 <p><strong>Description:</strong> Bullet points are used on the front page to make the content more compact and easier to navigate, enhancing user engagement. They also help display the variety of information available on the website.</p>
 <p><strong>Screenshot:</strong></p>
-
+![front page](https://github.com/user-attachments/assets/be65a653-c672-470e-9a4c-8fe1c67c57e6)
 <hr>
 
 <h2>Testing</h2>
@@ -57,6 +68,8 @@
 <hr>
 
 <h2>Accessibility</h2>
+
+![Picture7](https://github.com/user-attachments/assets/87572cce-f69f-4a0d-a4a9-e43ffb6ff204)
 <p>Accessibility was checked using Lighthouse.</p>
 
 <h3>Accessibility Score</h3>
