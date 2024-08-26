@@ -93,7 +93,8 @@ hr {
 }
 
 article {
-  width: 95% margin: 1 auto;
+  width: 95%;
+  margin: 1px auto;
   padding: 20px;
 }
 
