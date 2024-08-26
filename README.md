@@ -1,137 +1,105 @@
-<h1>Project One Life Hacks</h1>
+# Project One: Life Hacks
 
-![Picture3](https://github.com/user-attachments/assets/db3f6cbc-dbd3-4865-bd1a-f34e29c0c600)
+![Project One Life Hacks](https://github.com/user-attachments/assets/db3f6cbc-dbd3-4865-bd1a-f34e29c0c600)
 
+## Introduction
 
-<hr>
+This website is designed to help people save time and energy, allowing them to focus on the more important things in life. The goal is to make life easier, simpler, and stress-free.
 
-<h2>Introduction</h2>
-<p>This website is designed to help people save time and energy, enabling them to focus on the more important aspects of life. Our goal is to make life easier, simpler, and stress-free.</p>
+## Table of Contents
 
-<hr>
+1. [Introduction](#introduction)
+2. [Screenshots](#screenshots)
+3. [Features](#features)
+4. [Testing](#testing)
+5. [Accessibility](#accessibility)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
 
-<h2>Table of Contents</h2>
-<ol>
-  <li>Introduction</li>
-  <li>Screenshots</li>
-  <li>Features</li>
-  <li>Testing</li>
-  <li>Accessibility</li>
-  <li>Deployment</li>
-  <li>Credits</li>
-</ol>
+## Screenshots
 
-<hr>
+![Navigation Bar](https://github.com/user-attachments/assets/6c5f8270-d5c9-4334-bcc8-6ee3de7c0fd7)
+![Footer](https://github.com/user-attachments/assets/55d6e579-3838-4f8f-b42e-e92865bd22bf)
+![Video Feature](https://github.com/user-attachments/assets/896babe0-d98f-4de8-bef9-84694226d0b7)
+![Front Page](https://github.com/user-attachments/assets/f3fc207b-5fc4-4b65-b708-e4f533f8be41)
+![Title Section](https://github.com/user-attachments/assets/1d3efef8-3551-43d1-b1bb-acaf370d7664)
 
-<h2>Screenshots</h2>
-<p>Screenshots demonstrate how the website looks on common screen sizes. They were created using 
-![video 1 img](https://github.com/user-attachments/assets/a0f4f633-d687-44f1-8489-921d824b9baa)
-![tittle 1](https://github.com/user-attachments/assets/3dd1ef80-9384-42fd-8a6c-ea31680f8791)
-![nav](https://github.com/user-attachments/assets/8711a263-5fcf-4098-82f6-8b6c58905cd7)
-![footer](https://github.com/user-attachments/assets/2251cfea-237f-4e98-8a90-36436a2dc5ce)
-![front page](https://github.com/user-attachments/assets/be65a653-c672-470e-9a4c-8fe1c67c57e6).
-</p>
+Include a screenshot of your web page displaying how it looks on common screen sizes.
+- Screenshot created using [ami.responsivedesign.is](https://ami.responsivedesign.is/).
 
-<hr>
+## Features
 
-<h2>Features</h2>
-<p>Here are the main features of the project, along with descriptions and screenshots:</p>
+### Feature 1: Navigation Bar
+- **Description:** The navigation bar directs users from the homepage to cooking, learning, and cleaning sections. It helps in traversing the website, allowing information to be separated into specific categories. Icons were made bolder and bigger to ensure ease of use, without compromising fit on a phone screen.
+- **Screenshot:** ![Navigation Bar](https://github.com/user-attachments/assets/6c5f8270-d5c9-4334-bcc8-6ee3de7c0fd7)
 
-<h3>Feature 1: Navigation Bar</h3>
-<p><strong>Description:</strong> The navigation bar directs users from the homepage to sections on cooking, learning, and cleaning. It organizes information into specific categories, making it easy to navigate. The icons were made larger and bolder for easy use on mobile devices, without compromising screen space.</p>
-<p><strong>Screenshot:</strong></p>
-![nav](https://github.com/user-attachments/assets/8711a263-5fcf-4098-82f6-8b6c58905cd7)
+### Feature 2: Submission Button
+- **Description:** The submission button allows users to submit their email for newsletters on different life hacks to improve and maintain a better quality of life. The submission link sends the email to a storage site.
+- **Screenshot:** ![Footer](https://github.com/user-attachments/assets/55d6e579-3838-4f8f-b42e-e92865bd22bf)
 
-<h3>Feature 2: Submission Button</h3>
-<p><strong>Description:</strong> This button allows users to submit their email for newsletters on various life hacks, helping them maintain a better quality of life. The submission link stores the email securely.</p>
-<p><strong>Screenshot:</strong></p>
-![footer](https://github.com/user-attachments/assets/2251cfea-237f-4e98-8a90-36436a2dc5ce)
-<h3>Feature 3: Social Media Links</h3>
-<p><strong>Description:</strong> These links enable users to follow the website on social media. Clicking a link opens a new window, keeping the original site open for easy navigation.</p>
-<p><strong>Screenshot:</strong></p>
-![footer](https://github.com/user-attachments/assets/2251cfea-237f-4e98-8a90-36436a2dc5ce)
+### Feature 3: Social Media Links
+- **Description:** The social media links allow users to follow the website online. The links open in a separate window when clicked, diverting the customer but keeping the original site open.
+- **Screenshot:** ![Footer](https://github.com/user-attachments/assets/55d6e579-3838-4f8f-b42e-e92865bd22bf)
 
-<h3>Feature 4: Video</h3>
-<p><strong>Description:</strong> A video feature demonstrates life hacks, such as cutting vegetables. The video can be played and paused, giving users flexibility in viewing the content.</p>
-<p><strong>Screenshot:</strong></p>
-![video 1 img](https://github.com/user-attachments/assets/a0f4f633-d687-44f1-8489-921d824b9baa)
+### Feature 4: Video
+- **Description:** A video feature shows someone cutting vegetables, which can be played and paused, allowing the user more options when viewing the content.
+- **Screenshot:** ![Video Feature](https://github.com/user-attachments/assets/896babe0-d98f-4de8-bef9-84694226d0b7)
 
-<h3>Feature 5: Bullet Points</h3>
-<p><strong>Description:</strong> Bullet points are used on the front page to make the content more compact and easier to navigate, enhancing user engagement. They also help display the variety of information available on the website.</p>
-<p><strong>Screenshot:</strong></p>
-![front page](https://github.com/user-attachments/assets/be65a653-c672-470e-9a4c-8fe1c67c57e6)
-<hr>
+### Feature 5: Bullet Points
+- **Description:** The bullet points on the front page make the site more compact and easier to use, enhancing user engagement by clearly displaying the variety of information available.
+- **Screenshot:** ![Front Page](https://github.com/user-attachments/assets/f3fc207b-5fc4-4b65-b708-e4f533f8be41)
 
-<h2>Testing</h2>
-<p>The website was tested for interactivity, ease of use, and areas for improvement. Enhancements included drop-down bullet points, a larger navigation bar, and adjustments in text size.</p>
+## Testing
 
-<hr>
+I tested the website to improve interactivity and ease of use, implementing features like drop-down bullet points, a larger navigation bar, and adjusted text size.
 
-<h2>Accessibility</h2>
+### Test 1 Results:
+- **W3C HTML Validator:** ![HTML Test](https://github.com/user-attachments/assets/80a54af3-e29d-496e-ac34-544fea60a858)
+- **W3C CSS Validator:** ![CSS Test](https://github.com/user-attachments/assets/769f7329-d75c-4174-84d9-1803a25052eb)
 
-![Picture7](https://github.com/user-attachments/assets/87572cce-f69f-4a0d-a4a9-e43ffb6ff204)
-<p>Accessibility was checked using Lighthouse.</p>
+### Test 2 Results:
+- **W3C HTML Validator:** ![HTML Test 2](https://github.com/user-attachments/assets/2ca1dbef-c2f1-4c38-b3df-f6a670745cad)
+- **W3C CSS Validator:** ![CSS Test 2](https://github.com/user-attachments/assets/577dc1f1-9a85-429b-b004-71ecdec67496)
 
-<h3>Accessibility Score</h3>
-<p>Mention your Lighthouse accessibility score.</p>
+## Accessibility
 
-<h3>Improvements</h3>
-<p>Describe any improvements made based on Lighthouse suggestions.</p>
+Accessibility was checked using Lighthouse.
 
-<h3>Running Lighthouse</h3>
-<ol>
-  <li>Open Developer Tools.</li>
-  <li>Select the Lighthouse tab.</li>
-  <li>Click to generate a report.</li>
-</ol>
+- **Running Lighthouse:** 
+  - Desktop: ![Lighthouse Desktop](https://github.com/user-attachments/assets/e368ddb1-7c58-48ea-a951-7c26ac14ce6e)
+  - Mobile: ![Lighthouse Mobile](https://github.com/user-attachments/assets/e15791f7-a8bd-4b50-90ac-d7649d0574da)
+- **Improvements:** The accessibility and SEO scores were low, so I plan to improve these in the next project.
 
-<hr>
+## Deployment
 
-<h2>Deployment</h2>
-<p>Detailing the steps taken to deploy the project:</p>
+Steps taken to deploy the project:
 
-<hr>
+1. **Step 1:** Started with the theme of the website, inspired by an example from the project brief.
+2. **Step 2:** Chose cooking, cleaning, and learning as the main topics for each page, and added a homepage to explain the benefits.
+3. **Step 3:** Used an HTML viewer to start coding, creating all four pages on one to maintain format consistency.
+4. **Step 4:** Coded titles, navigation bar, and front page, and added divs for each life hack category.
+5. **Step 5:** Structured subject pages with divs around the information.
+6. **Step 6:** Added footer with social media links and an email subscription button.
+7. **Step 7:** Saved the work on GitHub.
+8. **Step 8:** Added links to convert the content into multiple pages, maintaining branding consistency.
+9. **Step 9:** Used Chrome’s inspect tool to correct positioning errors and remove unnecessary elements.
+10. **Step 10:** Styled the website generically and added specific style attributes to the front page, footer, and header.
+11. **Step 11:** Released the site for public viewing.
+12. **Step 12:** Ran tests and made improvements based on feedback.
+13. **Step 13:** Rearranged `<h>` elements from `<h1>` to `<h5>`, removed inline styling, and unnecessary elements.
+14. **Step 14:** Started on the README.
 
-<ol>
-  <li><strong>Step 1:</strong> Selected the theme of the website, inspired by the project brief.</li>
-  <li><strong>Step 2:</strong> Decided on specific subject matter for each page: cooking, cleaning, and learning, and created a homepage outlining the benefits of these life hacks.</li>
-  <li><strong>Step 3:</strong> Began coding using an HTML viewer, creating all pages in one document for consistent formatting.</li>
-  <li><strong>Step 4:</strong> Structured the site with titles, a navigation bar, and categorized content.</li>
-  <li><strong>Step 5:</strong> Designed subject pages with a consistent layout, using divs to organize information.</li>
-  <li><strong>Step 6:</strong> Added a footer with social media links and an email subscription button, using online resources to learn how to implement these features.</li>
-  <li><strong>Step 7:</strong> Saved and transferred the project to GitHub.</li>
-  <li><strong>Step 8:</strong> Converted the single-page layout into multiple pages for easier navigation.</li>
-  <li><strong>Step 9:</strong> Used Chrome's Inspect tool to correct alignment and positioning issues.</li>
-  <li><strong>Step 10:</strong> Added a style file to ensure consistent design across all pages.</li>
-  <li><strong>Step 11:</strong> Deployed the site for public viewing.</li>
-  <li><strong>Step 12:</strong> Conducted tests as outlined above.</li>
-  <li><strong>Step 13:</strong> Made improvements based on feedback from mentors and family members, such as rearranging header tags, removing inline styling, and eliminating unnecessary elements.</li>
-  <li><strong>Step 14:</strong> Completed the ReadMe file.</li>
-</ol>
+## Credits
 
-<hr>
+Credits for resources used in the project:
 
-<h2>Credits</h2>
-<p>Acknowledgments for code and resources sourced from other platforms:</p>
+- **Code:**
+  - [W3Schools](https://www.w3schools.com/)
+  - [Formdump by Code Institute](https://formdump.codeinstitute.net/)
+  
+- **Images & Videos:**
+  - [Pexels](https://www.pexels.com/)
 
-<hr>
-
-<ul>
-  <li><strong>Code:</strong> 
-    <ul>
-      <li><a href="https://www.w3schools.com/">W3Schools</a></li>
-      <li><a href="https://formdump.codeinstitute.net/">Formdump by Code Institute</a></li>
-    </ul>
-  </li>
-  <li><strong>Images & Video:</strong> 
-    <ul>
-      <li><a href="https://www.pexels.com/">Pexels</a></li>
-    </ul>
-  </li>
-  <li><strong>Testing:</strong>
-    <ul>
-      <li><a href="https://pagespeed.web.dev/">PageSpeed Insights</a></li>
-      <li><a href="https://validator.w3.org/#validate_by_input">W3C Validator</a></li>
-    </ul>
-  </li>
-</ul>
+- **Testing:**
+  - [Google PageSpeed Insights](https://pagespeed.web.dev/)
+  - [W3C Validator](https://validator.w3.org/#validate_by_input)
